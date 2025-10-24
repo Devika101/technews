@@ -1,6 +1,8 @@
 # Tech Daily - AI Powered Tech News Digest
 
 A Streamlit app that fetches the latest tech news and provides AI-powered summaries using OpenRouter.
+
+
 Check it out:https://technews-gqcimpwrnelqibxwicrak5.streamlit.app/
 
 ## Setup
