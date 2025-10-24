@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+firebase-admin
+streamlit-authenticator
+streamlit-option-menu
+streamlit-elements
